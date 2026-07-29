@@ -10,7 +10,7 @@ Example:
 
 ```text
 Pods
-Logs
+Logs 
 Events
 Deployments
 Networking
